@@ -24,7 +24,7 @@ p {
 
 
 
-#title, #poster, #plot, #actors {
+#title, #plot, #actors {
     padding: 5px;
     visibility: hidden;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -45,7 +45,7 @@ p {
 
 
 img {
-    width: 550px;
+    width: 40px;
     height: auto;
     margin-top: 20px;
 }
