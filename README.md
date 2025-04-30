@@ -41,4 +41,5 @@ I'm actively improving functionality, styling, and user experience. Future impro
 
 ---
 
+Made with ❤️ by Doria
 
