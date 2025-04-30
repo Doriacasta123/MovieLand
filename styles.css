@@ -26,13 +26,15 @@ h1 {
 
 p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: large;
+    font-size: 30px;
+    size: 800px;
     padding: 10px;
+
 }
 
 
 
-#title, #plot, #actors {
+#title, #actors {
     padding: 20px;
     visibility: hidden;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -43,6 +45,18 @@ p {
  
   
 }
+
+
+#plot {
+    padding: 20px;
+    visibility: hidden;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    max-width: 600px;
+    margin: 10px auto;
+
+}
+
 
  #poster {
     padding: 5px;
