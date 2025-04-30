@@ -4,6 +4,14 @@ body {
     background-color: rgb(0, 0, 0);
     color: aliceblue;
     text-align: center;
+   
+
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
 }
 
 
@@ -25,18 +33,26 @@ p {
 
 
 #title, #plot, #actors {
-    padding: 5px;
+    padding: 20px;
     visibility: hidden;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+  
    
+    
+ 
+  
 }
 
  #poster {
     padding: 5px;
     visibility: hidden;
     width: 350px;
-    height: auto;
+    height: 400;
     margin-top: 20px;
+    object-fit: cover;
+    text-align: center;
+    
     
 
     
@@ -57,6 +73,7 @@ input {
     border: 1px solid #ccc;
     width: 40%;
     margin-bottom: 1rem;
+    
 
 }
 
