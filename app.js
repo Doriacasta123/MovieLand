@@ -112,7 +112,7 @@ window.addEventListener("load", () => {
       }
 
       document.getElementById("poster").src = data.Poster;
-      document.getElementById("title").innerText = `Movie of the Day: ${data.Title}`;
+      document.getElementById("title").innerText = `Recommendation of the day: ${data.Title}`;
       document.getElementById("plot").innerText = data.Plot;
       document.getElementById("actors").innerText = data.Actors;
 
